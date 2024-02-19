@@ -7,17 +7,24 @@
     "text": "About this site"
   },
   {
+    "objectID": "t3_databases/index.html",
+    "href": "t3_databases/index.html",
+    "title": "Utd-cyber",
+    "section": "",
+    "text": "This is a Quarto website.\ntask.html\ntask.html\ntask\nindex"
+  },
+  {
     "objectID": "task.html",
     "href": "task.html",
-    "title": "New Page",
+    "title": "Task",
     "section": "",
     "text": "Header\nYour content here…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Utd-cyber",
+    "title": "Index Page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\ntask.html\ntask.html\ntask"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\ntask\nindex\ntask_sub\ntask"
   }
 ]
