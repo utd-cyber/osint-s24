@@ -7,13 +7,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "osint-s24/about.html",
-    "href": "osint-s24/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "task.html",
     "href": "task.html",
     "title": "New Page",
@@ -21,17 +14,10 @@
     "text": "Header\nYour content here…"
   },
   {
-    "objectID": "osint-s24/index.html",
-    "href": "osint-s24/index.html",
-    "title": "Osint-s24",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Utd-cyber",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\ntask.html\ntask.html\ntask"
   }
 ]
