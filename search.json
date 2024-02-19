@@ -7,18 +7,25 @@
     "text": "About this site"
   },
   {
-    "objectID": "t3_databases/meeting-01.html",
-    "href": "t3_databases/meeting-01.html",
-    "title": "Meeting-01",
+    "objectID": "t3_databases/meetings/meeting-03.html",
+    "href": "t3_databases/meetings/meeting-03.html",
+    "title": "Meeting-03",
     "section": "",
-    "text": "This is a Quarto website.\ntask.html\ntask.html\ntask\nindex"
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/26\nImportant\nNatalie, Isabella, Omar, Alex\n\n\n\nindex"
   },
   {
     "objectID": "t3_databases/meetings/meeting-01.html",
     "href": "t3_databases/meetings/meeting-01.html",
     "title": "Meeting-01",
     "section": "",
-    "text": "Name\nTags\nParticipants\n\n\n\n\nM1\nImportant\nSamantha, Isabella, Miguel, Alex, Jordan, Tyler, Ava\n\n\n\n\nindex"
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/24\nImportant\nSamantha, Isabella, Miguel, Alex, Jordan, Tyler, Ava\n\n\n\nindex"
+  },
+  {
+    "objectID": "t3_databases/meetings/meeting-04.html",
+    "href": "t3_databases/meetings/meeting-04.html",
+    "title": "Meeting-04",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/27\nVery Important\nAva, Ethan, Omar, Isabella\n\n\n\nindex"
   },
   {
     "objectID": "t3_databases/index.html",
@@ -49,11 +56,18 @@
     "text": "Meeting 1\nMeeting 2\nMeeting 3\nBack to Root\nt3_databases"
   },
   {
+    "objectID": "t3_databases/meetings/meeting-05.html",
+    "href": "t3_databases/meetings/meeting-05.html",
+    "title": "Meeting-05",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/28\nVery Important\nIsabella, Miguel, Ava, Ethan, Jordan, Tyler\n\n\n\nindex"
+  },
+  {
     "objectID": "t3_databases/meetings/meeting-02.html",
     "href": "t3_databases/meetings/meeting-02.html",
     "title": "Meeting-02",
     "section": "",
-    "text": "Date\nTags\nParticipants\n\n\n\n\n24/01\nImportant\nSamantha, Isabella, Miguel, Alex, Jordan, Tyler, Ava\n\n\n\nindex"
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/25\nVery Important\nNatalie, Samantha, Ava, Ethan, Tyler\n\n\n\nindex"
   },
   {
     "objectID": "index.html",
